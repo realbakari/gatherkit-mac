@@ -7,5 +7,14 @@
     <link>https://github.com/realbakari/gatherkit-mac/releases</link>
     <language>en</language>
     <!-- Newest release first. Tools/release.sh adds each one here. -->
+    <item>
+      <title>GatherKit 1.1.0</title>
+      <pubDate>Wed, 11 Nov 2026 13:07:50 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>GatherKit now keeps itself up to date. It checks for a new version once a day and installs it the next time you quit. Choose <strong>GatherKit › Check for Updates…</strong> to check now, or turn automatic updates off in Settings › General.</p><ul><li>The Overview shows a clearer card for your next event, and lists each thing that needs attention on its own line.</li><li>The event page is tidier: the status sits beside the countdown, and counts of zero are dimmed.</li><li>Check-in responds faster to scans and typing, and the station name is easier to find and edit.</li><li>Arrivals in Reports are easier to read.</li><li>Fixed the duplicate check in the attendee editor restarting while you typed.</li></ul><p>If you have 1.0.0, download this version by hand once. Later versions arrive on their own.</p>]]></description>
+      <enclosure url="https://github.com/realbakari/gatherkit-mac/releases/download/v1.1.0/GatherKit.zip" type="application/octet-stream" sparkle:edSignature="hBE6paLBM4TcNFefaRNxdYdDLwfO9q9MDCmKsem0+hJS15BXqyM3KlVWjPpSNOPP0AIhKwrzmIwtp7q9h/4jCw==" length="4417792" />
+    </item>
   </channel>
 </rss>
