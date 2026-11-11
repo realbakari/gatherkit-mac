@@ -25,6 +25,8 @@
 2. Open the zip, then drag **GatherKit** to your Applications folder.
 3. Open it from Applications.
 
+GatherKit keeps itself up to date: it checks for a new version once a day and installs it the next time you quit. Choose **GatherKit › Check for Updates…** to check now. (Version 1.0.0 predates this, so if you have it, download the latest version once by hand.)
+
 The app is signed with Bakari Mustafa’s Developer ID and notarised by Apple, so it opens without warnings. It needs **macOS 14** or later.
 
 To look around before entering your own events, choose **Help › Explore the Sample Library**.
@@ -50,12 +52,12 @@ To look around before entering your own events, choose **Help › Explore the Sa
 
 ## Privacy
 
-No account, no server, no analytics and no advertising. Everything you enter stays on your Mac. The app only goes online when you sync with a ticketing platform you’ve connected.
+No account, no server, no analytics and no advertising. Everything you enter stays on your Mac. The app only goes online when you sync with a ticketing platform you’ve connected, and once a day to check here for a new version (you can turn that off in Settings). The update check sends no personal data.
 
 ## Help
 
 Press ⌘? in the app for the built-in guide. Otherwise email [bakari@bakarimustafa.com](mailto:bakari@bakarimustafa.com) or [open an issue](https://github.com/realbakari/gatherkit-mac/issues).
 
-This repository holds the releases.
+This repository holds the releases and `appcast.xml`, the update feed the app checks.
 
 © 2026 Bakari Mustafa. All rights reserved.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GatherKit's update feed. The app checks this file (Sparkle); Tools/release.sh in the
+     source repo adds an item for each release. Don't edit an item after it ships. -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>GatherKit</title>
+    <link>https://github.com/realbakari/gatherkit-mac/releases</link>
+    <language>en</language>
+    <!-- Newest release first. Tools/release.sh adds each one here. -->
+  </channel>
+</rss>
